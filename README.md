@@ -1,2 +1,1 @@
-# SwiftBank
-
+# swiftbank-server-driven-ui
